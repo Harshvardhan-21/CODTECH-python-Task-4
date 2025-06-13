@@ -26,10 +26,15 @@ This project builds a **spam email classifier** using `scikit-learn` and `TfidfV
 - Evaluates performance with precision, recall, F1-score
 - Predicts custom inputs
 
+🎯 Objective
+Create a predictive classification model using scikit-learn.
+We’ll build a Spam Email Classifier that uses text features to predict if a message is "spam" or "ham" (not spam).
+
 ## 📁 Files Included
 - `spam_classifier.ipynb` - Jupyter Notebook with all code and results
 - `spam.csv` - Sample labeled dataset
 - `requirements.txt` - Required libraries
+- `spam_classifier_confusion_matrix.png` - Confusion Matrix of the spam classifier model
 - `README.md` - Documentation
 
 ## 🚀 How to Run
