@@ -14,7 +14,7 @@ MENTOR: Neela Santhosh Kumar
 
 ABOUT ME
 
-Hi, I'm Harsh Vardhan, a motivated and tech-enthusiastic BCA student, currently in my 2nd year at Guru Kashi University. I have a passion for web development and creating user-focused digital experiences. This project is part of my internship task at CodeTech, where I demonstrated my skills in building a Spam Classifier.
+Hi, I'm Harsh Vardhan, a motivated and tech-enthusiastic BCA student, currently in my 3rd year at Guru Kashi University. I have a passion for web development and creating user-focused digital experiences. This project is part of my internship task at CodeTech, where I demonstrated my skills in building a Spam Classifier.
 
 ## PROJECT OVERVIEW
 This project builds a **spam email classifier** using `scikit-learn` and `TfidfVectorizer`.
